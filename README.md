@@ -246,7 +246,7 @@ Possible interventions:
 
 # 👥 Team
 
-Team Name:
+Team Name:AIUB_TURTLERS
 
 ```
 YOUR_TEAM_NAME
