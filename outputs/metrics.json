@@ -1,0 +1,10 @@
+{
+  "auc_roc": 0.9849062543202975,
+  "precision_at_10pct": 0.9105616093880973,
+  "recall_at_10pct": 0.7188327157226045,
+  "best_iteration": 654,
+  "scale_pos_weight": 6.885947316943786,
+  "optuna_best_auc": 0.9849062543202975,
+  "final_train_rows": 595000,
+  "final_num_boost_round": 654
+}
